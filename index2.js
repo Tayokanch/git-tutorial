@@ -1,5 +1,5 @@
-console.log("version2")
-console.log("version2")
-console.log("version2")
-console.log("version2")
-console.log("version2")
+function addition(a, b){
+    return a + b;
+}
+
+console.log(addition(5, 10));
