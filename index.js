@@ -1,14 +1,6 @@
-console.log("version1")
-console.log("version1")
-console.log("version1")
 
-console.log("version1")
-console.log("version1")
-console.log("version 1")
-console.log("version 1")
-console.log("version 1")
-console.log("version 1")
-console.log("version 1")
+function multiplication(a, b){
+    return a * b;
+}
 
-
-
+console.log(multiplication(5, 10));
