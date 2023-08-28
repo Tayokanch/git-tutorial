@@ -9,4 +9,6 @@ function multiplication(a, b){
 
 }
 
+console.log("testing function with ifElse statement")
+
 (multiplication(5, 10));

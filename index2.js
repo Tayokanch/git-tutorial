@@ -10,3 +10,5 @@ function division(a, b){
 }
 
 (division(500, 10));
+
+console.log("testing function with ifElse statement")
