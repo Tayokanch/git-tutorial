@@ -1,11 +1,12 @@
-function addition(a, b){
-    return a + b;
-}
-
-console.log(addition(5, 10));
 
 function division(a, b){
-    return a + b;
+    if(a / b === 50 ){
+        console.log("Correct Answer")
+    }
+    else{
+        console.log("Incorrect Answer")
+    }
+    
 }
 
-console.log(division(500, 10));
+(division(500, 10));

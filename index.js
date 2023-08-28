@@ -1,6 +1,12 @@
 
 function multiplication(a, b){
-    return a * b;
+    if (a === 5 && b === 10){
+        console.log (a * b);
+    } else{
+        console.log("invalid input")
+    }
+
+
 }
 
-console.log(multiplication(5, 10));
+(multiplication(5, 10));
